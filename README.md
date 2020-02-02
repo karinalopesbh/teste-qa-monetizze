@@ -1,10 +1,27 @@
-Author: Karina de Almeida Alves
+Autor: Karina de Almeida Alves
+Data: 02/02/2020
 Sistema Operacional: Windows 7
+Versão Ruby: 2.6.5
 
-1) Download da versão 2.7.0-1-x64  em https://rubyinstaller.org/downloads/
-2) Instalação do Ruby
-3) Abrir o cmd do Ruby e digitar "gem install cucumber"
-4) Execução do comando "cucumber --version" para verificar a versão que foi instalada, no meu caso foi instalada a versão 3.1.2
+As regras de negócios estão descritas nos arquivos
+Loja.feature
+Contato.feature
+
+Foi criado alguns testes automatizados utilizando o Cucumber, para sua execução executar os passos abaixo: 
+
+1) Copiar o diretório teste-qa-monetizze para C:\
+2) Abrir o cmd do Ruby (Start Command Prompt with Ruby)
+3) Acessar o diretório Cucumber (cd C:\teste-qa-monetizze\Cucumber)
+4) Executar o comando cucumber
+
+Foi criado um teste automatizado com a ferramenta Selenium WebDriver, para sua execução executar os passos abaixo:
+
+1) Abrir o browser Firefox
+2) Clicar no ícone do Selenium Webdriver que se encontra instalado no computador
+3) Clicar em Open an existing project
+4) Selecionar o arquivo teste-qa-monetizze.side
+5) Clicar em run
+
 
 
 
