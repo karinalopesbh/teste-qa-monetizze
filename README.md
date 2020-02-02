@@ -1,7 +1,12 @@
-Autor: Karina de Almeida Alves
-Data: 02/02/2020
-Sistema Operacional: Windows 7
-Versão Ruby: 2.6.5
+
+# Teste QA Monetizze
+
+**Autor:** Karina de Almeida Alves
+**Data:** 02/02/2020
+**Sistema Operacional:** Windows 7
+**Versão Ruby:** 2.6.5
+
+## Cucumber
 
 As regras de negócios estão descritas nos arquivos
 Loja.feature
@@ -13,6 +18,9 @@ Foi criado alguns testes automatizados utilizando o Cucumber, para sua execuçã
 2) Abrir o cmd do Ruby (Start Command Prompt with Ruby)
 3) Acessar o diretório Cucumber (cd C:\teste-qa-monetizze\Cucumber)
 4) Executar o comando cucumber
+
+
+## Selenium Web Driver
 
 Foi criado um teste automatizado com a ferramenta Selenium WebDriver, para sua execução executar os passos abaixo:
 
