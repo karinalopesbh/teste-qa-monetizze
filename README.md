@@ -2,8 +2,11 @@
 # Teste QA Monetizze
 
 **Autor:** Karina de Almeida Alves
+
 **Data:** 02/02/2020
+
 **Sistema Operacional:** Windows 7
+
 **Versão Ruby:** 2.6.5
 
 ## Cucumber
